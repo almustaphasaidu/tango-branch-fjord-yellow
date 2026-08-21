@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Waykeep",
+      "hasCanvas": true,
+      "bodyTextLen": 298,
+      "bodyTextHash": "bebc82074c0599e0441008bdf40017ba5c269c5827aa468ed4560168bc30eb2d",
+      "bodyTextPrefix": "Waykeep Hold the last road TOWER DEFENSE Waykeep The road is the",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Waykeep",
+      "hasCanvas": true,
+      "bodyTextLen": 279,
+      "bodyTextHash": "e37784923cbf86d5c47a7264dcfc9ae2b27680078f99e309ac24abeacf0746cf",
+      "bodyTextPrefix": "Waykeep TOWER DEFENSE Waykeep The road is the last thing still o",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
